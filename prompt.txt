@@ -1,0 +1,1 @@
+Write one single-line joke about office life, at most 200 characters long. The joke should be about something specific and familiar from working in an office, with a setup and a punchline that lands on one line. Keep it fresh, clear on first read, and funny to anyone who has sat through office life. The program must write exactly that one line to entry.txt.
